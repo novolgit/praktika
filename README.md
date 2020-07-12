@@ -1,2 +1,2 @@
 # praktika by Novol Vlad
-https://circleci.com/<gh
+[![novolgit](https://circleci.com/gh/novolgit/praktika.svg?style=svg)](https://circleci.com/gh/novolgit/praktika)
