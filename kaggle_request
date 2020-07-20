@@ -1,0 +1,1 @@
+kaggle competitions submit -c Praktika titanic -f /Kaggle/output/r_k_nearest_neighbors.csv -m "message"
